@@ -1,2 +1,2 @@
-# YelpCamp
-My First MEN Stack Project
+Sikkim Canvas
+A Full Stack Web Devlopment Project
